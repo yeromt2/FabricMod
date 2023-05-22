@@ -1,4 +1,4 @@
-package net.fabricmod;
+package net.tutorialmod;
 
 import net.fabricmc.api.ClientModInitializer;
 

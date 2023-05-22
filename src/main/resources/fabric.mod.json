@@ -19,10 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmod.tutorialmod.TutorialMod"
+      "net.tutorialmod.TutorialMod"
     ],
     "client":[
-      "net.fabricmod.TutorialModCLient"
+      "net.tutorialmod.TutorialModClient"
     ]
   },
   "mixins": [
